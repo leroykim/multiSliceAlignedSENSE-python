@@ -93,7 +93,7 @@ If you use this Python/PyTorch implementation in your research, please cite this
 @software{multislice_aligned_sense_pytorch,
   author = {dkim1},
   title = {multiSliceAlignedSENSE-python: A Python port of S2V motion correction and reconstruction for fetal fMRI},
-  url = {https://github.com/dkim1/multislice-aligned-sense-pytorch},
+  url = {https://github.com/leroykim/multiSliceAlignedSENSE-python},
   year = {2026}
 }
 ```
